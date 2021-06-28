@@ -9,6 +9,6 @@
 
 # Exercise 2
 * Creating links within the document
-* |Column Header | Column Header 2  |
-|:........ |:.............|
+* |Column Header | Column Header 2 |
+* |:--------- |:----------------:|
 * |Name | Victor |
